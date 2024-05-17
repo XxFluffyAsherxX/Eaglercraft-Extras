@@ -1,6 +1,7 @@
 # Welcome to Eaglercraft Extras!
 This is a website similar to EaglerCrack (if you know it) where you can find all things related to Eaglercraft!
-It is a solo developed project for now, and I will try to update it every other Friday.
+There are currently 3 developers, and I am trying to update this as much as possible for it to be the best it can be.
+I recomment looking through some of the features below!
 
 ## Features
 - Find pre-built worlds to download and play!
@@ -8,6 +9,8 @@ It is a solo developed project for now, and I will try to update it every other 
 - Download resource packs to customize your Eaglercraft!
 - Look at a <b>giant</b> selection of clients to play on!
 - Download skins for Eaglercraft!
+- We have 1.3, 1.5, and 1.8 clients for Eaglercraft!
+- The best part? It's 100% <u>free!</u>
 
 ## Meet the Developers
 
@@ -29,4 +32,13 @@ Here are some things about me:
 - Knows HTML, CSS, and Python
 - Learning JavaScript
 - Barely knows JavaScript
+- yea :D
+
+
+### Hey there! I'm Bahabryra.
+
+Here are some things about me:
+- Knows HTML, CSS, and Scratch
+- Learning Python and JavaScript
+- Barely knows Python and Javascript
 - yea :D
